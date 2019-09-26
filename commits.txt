@@ -1,0 +1,4 @@
+Please add information about the changes you made in this project with the date
+
+26.09.19
+1.Created the commits.txt to report changes.
